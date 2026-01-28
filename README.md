@@ -40,7 +40,7 @@ I care about writing clear, reliable code and understanding how different parts 
 - Building full-stack and application-oriented projects
 - Actively seeking an **internship or junior developer role**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalinaNicoleta98&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinaNicoleta98&layout=compact)
 
