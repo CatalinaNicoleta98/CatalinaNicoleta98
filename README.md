@@ -44,9 +44,11 @@ I care about writing clear, reliable code and understanding how different parts 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinaNicoleta98&layout=compact)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 ![Vue](https://img.shields.io/badge/Vue-000?logo=vuedotjs)
 ![React](https://img.shields.io/badge/React-000?logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwindcss)
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
