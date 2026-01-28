@@ -51,6 +51,3 @@ I care about writing clear, reliable code and understanding how different parts 
 - Actively seeking an **internship or junior developer role**
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinaNicoleta98&layout=compact)
-
