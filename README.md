@@ -39,3 +39,14 @@ I care about writing clear, reliable code and understanding how different parts 
 - Deepening skills in **TypeScript**, **Vue/React**, and **MongoDB**
 - Building full-stack and application-oriented projects
 - Actively seeking an **internship or junior developer role**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalinaNicoleta98&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinaNicoleta98&layout=compact)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Vue](https://img.shields.io/badge/Vue-000?logo=vuedotjs)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-000?logo=php)
