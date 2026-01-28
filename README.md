@@ -1,6 +1,6 @@
 ## Hi there, I'm Catalina 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+%2F+Backend+Developer;TypeScript+%7C+Vue+%7C+React;PHP+%7C+SQL+%7C+MongoDB)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Frontend+%2F+Backend+Developer;TypeScript+%7C+Vue+%7C+React;PHP+%7C+SQL+%7C+MongoDB&center=true&width=700)
 
 I'm a **bachelor’s student in web development** with a strong interest in building structured, maintainable, and user-focused solutions.  
 I work across both **front-end and back-end development**, enjoying the balance between clean interfaces, solid logic, and well-structured data.
@@ -44,7 +44,3 @@ I care about writing clear, reliable code and understanding how different parts 
 - Deepening skills in **TypeScript**, **Vue/React**, and **MongoDB**
 - Building full-stack and application-oriented projects
 - Actively seeking an **internship or junior developer role**
-
----
-
-![snake](https://raw.githubusercontent.com/CatalinaNicoleta98/CatalinaNicoleta98/output/github-contribution-grid-snake.svg)
