@@ -5,6 +5,7 @@ I work across both **front-end and back-end development**, enjoying the balance 
 
 I care about writing clear, reliable code and understanding how different parts of an application work together.
 
+![snake](https://raw.githubusercontent.com/CatalinaNicoleta98/CatalinaNicoleta98/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🎓 Education
